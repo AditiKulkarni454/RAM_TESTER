@@ -37,7 +37,7 @@ The RAM tester operates by writing specific bit patterns to different memory loc
 
 ## Schematic
 
-![RAM Tester Schematic](https://drive.google.com/file/d/1uxYkIrJ8L31LmVN--OdTZCDg3ddIiU3K/view?usp=sharing)
+![RAM Tester Schematic](FLOW CHART.jpg)
 
 ## Testing Procedure
 
